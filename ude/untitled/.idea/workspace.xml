@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6efd8f01-5c33-46b1-acc7-e9cc083d46ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../kotlin_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/AllJobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Benz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Bmw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Bmw1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Box1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Box2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Box3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Car1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/CarAutoDriving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/CarAutoParking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/CustomerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/DataDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Device.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/InitialValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Job1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Job2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Job3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Job4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/JustDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/META-INF/kotlin_study.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/MyInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Parents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test10$Test1NestedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test20$Test2InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/TestObjectClass$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/TestObjectClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_10_calculatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_11_logicalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_12_processing_stringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_13_elvis_operatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_14_any_is_asKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_15_processing_listKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_16_classKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_17_overloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_18_inheritanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_19_overridingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_1_variableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_20_abstract_classKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_21_interfaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_22_data_classKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_23_nested_inner_classKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt$main$sumNumber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt$main$sumStringTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt$main$sumStringTypeTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt$main$sumStringTypeTwoNull$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt$main$sumTypeNumber$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt$main$sumTypeNumberNull$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_24_lambdaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_25_high_order_functionKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_25_high_order_functionKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_25_high_order_functionKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_25_high_order_functionKt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_25_high_order_functionKt$testLambdaSum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_25_high_order_functionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_26_genericKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_27_objectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_28_lateinit_lazyKt$main$lazyString$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_28_lateinit_lazyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_29_infix_functionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_30_scope_functionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_31_enumKt$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_31_enumKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_3_conditionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_4_practiceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_5_listKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_6_loopKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_7_gugudanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_8_scoringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/_9_functionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/initTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/kotlin_study/testObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/12.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/13.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/14.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section0/9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section1/9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section2/9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/1 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/10 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/10.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/11 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/11.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/2 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/3 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/4 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/5 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/6 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/7 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/8 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/9 solution.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../source/section3/9.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/10_calculator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/11_logical.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/12_processing_string.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/13_elvis_operator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/14_any_is_as.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/15_processing_list.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/16_class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/17_overloading.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/18_inheritance.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/19_overriding.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/1_variable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/20_abstract_class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/21_interface.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/22_data_class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/23_nested_inner_class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/24_lambda.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/25_high_order_function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/26_generic.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/27_object.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/28_lateinit_lazy.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/29_infix_function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/2_type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/30_scope_function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/31_enum.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/3_condition.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/4_practice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/5_list.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/6_loop.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/7_gugudan.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/8_scoring.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/9_function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2NC9ZYGUNQNLVOpdDkNaQdf2twc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6efd8f01-5c33-46b1-acc7-e9cc083d46ac" name="Changes" comment="" />
+      <created>1679157254129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679157254129</updated>
+      <workItem from="1679157255261" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
